@@ -1,14 +1,3 @@
----
-title: UHC Medical Policy Chatbot
-emoji: 🏥
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.44.1
-app_file: app.py
-pinned: false
----
-
 # UHC Medical Policy Chatbot
 
 A RAG-powered chatbot that answers questions about UnitedHealthcare (UHC) medical policies. Built for doctors, hospital staff, and insurance coordinators who need accurate, cited answers about coverage criteria, CPT/HCPCS codes, and medical necessity requirements.
