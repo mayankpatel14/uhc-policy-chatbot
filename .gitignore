@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+uhc/
+venv/
+.venv/
+
+# Environment / secrets
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files
+scraper/data/
+embedding/data/
+
+# Local Qdrant storage
+qdrant_storage/
+
+# Test outputs
+embedding/scripts/test_results.json
+
+# Misc
+CombineHealth*
